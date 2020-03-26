@@ -1,0 +1,18 @@
+div{
+    margin: 5px 5px 5px 5px;
+}
+ul{
+
+}
+li{
+    display:inline;
+}
+a:hover{
+    border-style: dotted;
+}
+a {
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+    display: inline-block;
+}
